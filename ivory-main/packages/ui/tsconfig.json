@@ -1,0 +1,5 @@
+{
+  "extends": "tsconfig/qwik-library.json",
+  "include": ["."],
+  "exclude": ["dist", "build", "node_modules"]
+}
