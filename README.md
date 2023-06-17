@@ -15,3 +15,4 @@ Torne-se parte do projeto tornando este repositório melhor. Leia mais sobre as 
 📖 Documentação
 A documentação do projeto está disponível nos sites da Ivory. Se você acha que falta alguma coisa na documentação ou não está clara o suficiente, abra um problema ou envie uma solicitação de recebimento.
 
+é um projeto aberto, vc pode contibuir e forkar ou potar no seu github.
